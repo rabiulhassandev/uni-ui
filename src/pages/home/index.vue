@@ -1,15 +1,16 @@
 <template>
   <view class="content">
-    <button @click="goTouniBadge">uni-badge</button>
+    <button @click="navigateToPage('basics/uni-badge')">uni-badge</button>
+    <button @click="navigateToPage('basics/uni-icons')">uni-icons</button>
   </view>
 </template>
 
 <script setup lang="ts">
 import { ref } from 'vue'
 
-function goTouniBadge() {
+function navigateToPage(page : string) {
   uni.navigateTo({
-    url: '/pages/basics/uni-badge'
+    url: '/pages/' + page,
   })
 }
 

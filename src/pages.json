@@ -11,6 +11,12 @@
 			"style": {
 				"navigationBarTitleText": "uni-badge"
 			}
+		},
+		{
+			"path": "pages/basics/uni-icons",
+			"style": {
+				"navigationBarTitleText": "uni-icons"
+			}
 		}
 	],
 	"globalStyle": {
