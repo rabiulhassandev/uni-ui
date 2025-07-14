@@ -35,7 +35,7 @@
     <view class="section">
       <text class="section-title">Notification Icon</text>
       <view class="icon-with-badge">
-        <uni-icons type="bell" size="30" color="#e74c3c" />
+        <uni-icons type="notification" size="30" color="#e74c3c" />
         <uni-badge text="3" type="error" size="small" absolute="topRight" />
       </view>
     </view>
