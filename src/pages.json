@@ -17,6 +17,12 @@
 			"style": {
 				"navigationBarTitleText": "uni-icons"
 			}
+		},
+		{
+			"path": "pages/basics/uni-tags",
+			"style": {
+				"navigationBarTitleText": "uni-tags"
+			}
 		}
 	],
 	"globalStyle": {
