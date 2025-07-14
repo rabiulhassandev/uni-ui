@@ -29,6 +29,12 @@
 			"style": {
 				"navigationBarTitleText": "uni-link"
 			}
+		},
+		{
+			"path": "pages/basics/uni-text",
+			"style": {
+				"navigationBarTitleText": "uni-text"
+			}
 		}
 	],
 	"globalStyle": {

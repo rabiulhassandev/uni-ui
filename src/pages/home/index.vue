@@ -4,6 +4,7 @@
     <button @click="navigateToPage('basics/uni-icons')">uni-icons</button>
     <button @click="navigateToPage('basics/uni-tags')">uni-tags</button>
     <button @click="navigateToPage('basics/uni-link')">uni-link</button>
+    <button @click="navigateToPage('basics/uni-text')">uni-text</button>
   </view>
 </template>
 
