@@ -3,6 +3,7 @@
     <button @click="navigateToPage('basics/uni-badge')">uni-badge</button>
     <button @click="navigateToPage('basics/uni-icons')">uni-icons</button>
     <button @click="navigateToPage('basics/uni-tags')">uni-tags</button>
+    <button @click="navigateToPage('basics/uni-link')">uni-link</button>
   </view>
 </template>
 

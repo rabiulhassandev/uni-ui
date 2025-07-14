@@ -23,6 +23,12 @@
 			"style": {
 				"navigationBarTitleText": "uni-tags"
 			}
+		},
+		{
+			"path": "pages/basics/uni-link",
+			"style": {
+				"navigationBarTitleText": "uni-link"
+			}
 		}
 	],
 	"globalStyle": {
