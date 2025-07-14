@@ -1,0 +1,22 @@
+{
+	"pages": [
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "Practice uni-UI"
+			}
+		},
+		{
+			"path": "pages/basics/uni-badge",
+			"style": {
+				"navigationBarTitleText": "uni-badge"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
